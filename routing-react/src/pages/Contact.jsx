@@ -1,3 +1,5 @@
+import style from './Style.module.scss';
+
 export const Contact = () =>{
     return (
     
